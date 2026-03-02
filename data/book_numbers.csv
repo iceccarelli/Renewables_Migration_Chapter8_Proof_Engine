@@ -1,0 +1,17 @@
+Metric,Value,Unit,Description,Source
+Legacy_Market_Rate,0.20,€/kWh,Lethal market rate for energy-intensive industry,Figure 8.1
+Mittelstand_Death_Zone,0.15,€/kWh,Threshold for industrial survival,Figure 8.1
+Carbon_Leakage_Min,1.0,t/t,Minimum CO2 added per tonne of relocated steel,Section 8.5
+Carbon_Leakage_Max,1.8,t/t,Maximum CO2 added per tonne of relocated steel,Section 8.5
+Annual_Prevented_Leakage,35,Mt,Annual global CO2 leakage prevented by MCP,Section 8.5.1
+Protocol_Offset_Target,0.60,Ratio,Projected offset of the energy gap (E) by 2030,Section 8.6
+Sovereign_Independence_2026,0.28,Ratio,Sovereignty Metric (S) in 2026,Section 5.6
+Sovereign_Independence_2030,0.75,Ratio,Projected Sovereignty Metric (S) by 2030,Section 5.6
+Energy_Intensity_Max,10,kWh/€ GVA,Maximum energy intensity in simulation,Figure 8.1
+Protocol_Dividend_Max,0.12,€/kWh,Maximum cost reduction via MCP at high intensity,Figure 8.1
+Relocation_Energy_Coefficient,250,Units,Coefficient for Energy Gap (E) in relocation polynomial,Section 8.6
+Relocation_Resilience_Coefficient,80,Units,Coefficient for Resilience (R) in relocation polynomial,Section 8.6
+Relocation_Inertia_Coefficient,50,Units,Coefficient for Inertia (I) in relocation polynomial,Section 8.6
+Relocation_Dependency_Coefficient,30,Units,Coefficient for Dependency (D) in relocation polynomial,Section 8.6
+DE_Best_CO2_Intensity,0.6,t/t,CO2 intensity of best-in-class German steel,Figure 8.2
+Global_Leakage_CO2_Intensity,1.8,t/t,CO2 intensity of global leakage destination,Figure 8.2
