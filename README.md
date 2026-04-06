@@ -5,10 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 
-This repository is the **official computational companion** to Chapter 8 of Vincenzo Grimaldi’s *The Renewables Migration* .
-
-The 03:17 narrative thread continues here. Every preceding chapter’s infrastructure foundation — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, solar subsidies, Dunkelflaute resilience, and hydrogen backup — now converges on Germany’s industrial heartland. Factories shift from vulnerable loads to intelligent, protocol-governed nodes. This production-ready codebase delivers verifiable Protocol Pivot simulations, carbon-leakage recovery equations, the Psi_MCP offset, and the 2030 Sovereign Heartland verdict for developers and system integrators to embed factory-level MCP intelligence into live industrial energy architectures.
-
 ---
 
 ## Quick Start — Verify Industrial Sovereignty in < 60 Seconds
@@ -129,12 +125,3 @@ Renewables_Migration_Chapter8_Proof_Engine/
 | **Book Data Export**             | 8.4             | One-click CSV matching Appendix A |
 
 ---
-
-## Technical Integration Philosophy
-
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and full MCP integration for industrial loads. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic factory data with real industrial telemetry.
-
----
-
-**Part of The Renewables Migration Technical Ecosystem**  
-From the €1.45 trillion receipt to sovereign industrial heartland — the 03:17 thread continues here.
